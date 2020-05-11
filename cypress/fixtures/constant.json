@@ -1,0 +1,22 @@
+{
+    "API_SUCCESS_CODE": 200,
+    "FIRST_NAME": "Michael",
+    "LAST_NAME": "Lawson",
+    "CREATED_NEW_USER": 201,
+    "DELETED_USER": 204,
+    "USER_NAME": "Faizan",
+    "METHOD_POST":"POST",
+    "METHOD_GET":"GET",
+    "METHOD_PUT":"PUT",
+    "METHOD_DELETE":"DELETE",
+    "BANK_END_POINT":"/api/v1/bank",
+    "LOGIN_END_POINT":"/api/v1/auth/login",
+    "USER_ROLE_HEAD":"COUNTRY_HEAD",
+    "ARRAY_LENGTH":1,
+    "QUARBANI_REPRESENTATIVE":"/api/v1/qurbani-representative",
+    "BOOKING_OUTLET":"/api/v1/booking-outlet",
+    "ACCOUNT_END_POINT":"/api/v1/account"
+
+
+
+}
