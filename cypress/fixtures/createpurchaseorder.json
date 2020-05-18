@@ -1,0 +1,19 @@
+{
+    "slaughteringLocation": {
+        "id": 130
+    },
+    "orderAmount": 55000,
+    "purchaseOrderDetails": [
+        {
+            "animalQuality": {
+                "animalQualityId": "1"
+            },
+            "animalType": {
+                "animalTypeId": "1"
+            },
+            "animalRate": 45000,
+            "requestedQuantity": 10
+        }
+    ],
+    "payNow": true
+}

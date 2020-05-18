@@ -1,0 +1,11 @@
+{
+    "animalPurchaseOrderId": "196",
+    "animalPurchasedDetail": [
+        {
+            "animalTypeId": 1,
+            "animalQualityId": 1,
+            "purchaseCount": 10,
+            "cost": 450000
+        }
+    ]
+}

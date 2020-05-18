@@ -2,14 +2,14 @@
 // cypress/integration/Login.spec.js
 /// <reference types="@bahmutov/cy-api" />
 
-import QurbaniApiDetail from '../QurbaniApiDetail';
+import detail  from '../bank_contoller/detail';
 
-import Detail from './Detail.js';
-const detailObj = new Detail();
+
+const detailObj = new detail();
 
 describe("POST,GET,PUT request through Country Head role", function () {
 
-  it.only('Login with Country Head user', () => {
+  it('Login with Country Head user', () => {
     detailObj.loginWithCountryHead();
       });
 
@@ -23,7 +23,7 @@ describe("POST,GET,PUT request through Country Head role", function () {
     detailObj.updateRequestForBank();
   });
 
-  it('Delete Last bank data', function () {
+  it('Delete bank data', function () {
 
     detailObj.deleteRequestForBank();
   });

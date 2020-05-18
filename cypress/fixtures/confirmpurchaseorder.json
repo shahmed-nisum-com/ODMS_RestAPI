@@ -1,0 +1,10 @@
+{
+    "animalPurchaseOrderId": "196",
+    "purchaseOrderConfirmDetail": [
+        {
+            "animalTypeId": 1,
+            "animalQualityId": 1,
+            "confirmedQuantity": 10
+        }
+    ]
+}

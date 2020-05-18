@@ -1,0 +1,36 @@
+{
+    "referenceCountry": {
+        "id": 1
+    },
+    "comment": "Comments",
+    "bookingOutletId": 3,
+    "donor": {
+        "phoneNo": "03012525254",
+        "name": "Shakeel Ahmed",
+        "email": [
+            "shakeel_ahmed@gmail.com"
+        ]
+    },
+    "preferredDay": 1,
+    "isCorporate": 0,
+    "bookingAnimalDetails": [
+        {
+            "referenceAnimalType": "1",
+            "referenceAnimalQuality": "1",
+            "animalQuantity": 1,
+            "isFullCow": 0,
+            "nameOfShareholders": [
+                "Shakeel"
+            ],
+            "cost": 9000
+        }
+    ],
+    "paymentTransactions": [
+        {
+            "referencePaymentType": "1",
+            "lcAmount": 9000
+        }
+    ],
+    "totalCost": 9000,
+    "bookingSource": "new"
+}

@@ -1,0 +1,28 @@
+{
+  "slaughteringLocations": [
+      {
+          "name": "Default Slaughter ",
+          "city": "Karachi",
+          "state": "Sindh",
+          "contactInfos": [
+              "0333121421"
+          ],
+          "animalDetails": [
+              {
+                  "animalType": 1,
+                  "minQuantity": 10,
+                  "maxQuantity": 100
+              }
+          ],
+          "bankDetails": {
+              "bankName": "209",
+              "branchName": "Main",
+              "branchCode": "2011",
+              "accountNo": "58582541254",
+              "accountTitle": "Ahmed"
+          },
+          "qurbaniEstimation": {}
+      }
+  ],
+  "qurbaniRepresentativeId": 77
+}

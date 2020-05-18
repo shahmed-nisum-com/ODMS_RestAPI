@@ -2,7 +2,7 @@
 
 
   var updateAccount = require('../../../fixtures/updateaccount.json');
-  var createAnAccount = require('../../../fixtures/createAccount.json');
+  var createAnAccount = require('../../../fixtures/createaccount.json');
   var countryHeadLoginCredential = require('../../../fixtures/countryheadcredential.json');
   var constant = require('../../../fixtures/constant.json');
   var accountId;

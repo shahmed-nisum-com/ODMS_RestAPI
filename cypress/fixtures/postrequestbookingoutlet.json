@@ -1,0 +1,12 @@
+{
+    "address": "ABCD street",
+    "bookingOutletId": 8,
+    "bookingOutletName": "Matli Branch",
+    "city": "Matli",
+    "country": "Pakistan",
+    "description": "This branch is in Jamaia Masjid Matli",
+    "type": 0,
+    "userIds": [
+      7
+    ]
+  }

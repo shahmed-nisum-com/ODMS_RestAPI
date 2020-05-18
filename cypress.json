@@ -1,17 +1,18 @@
 {
-    "defaultCommandTimeout": 6000,
-    "requestTimeout": 10000,
-    "responseTimeout": 60000,
-    "baseUrl": "http://localhost:8080",
-    "reporter": "cypress-multi-reporters",
-    "reporterOptions": {
-        "reporterEnabled": "mochawesome",
-        "mochawesomeReporterOptions": {
-            "reportDir": "cypress/reports/mocha",
-            "quite": true,
-            "overwrite": false,
-            "html": true,
-            "json": false
-        }
+  "defaultCommandTimeout": 6000,
+  "requestTimeout": 10000,
+  "responseTimeout": 60000,
+  "baseUrl": "http://localhost:8080",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "reporterEnabled": "mochawesome",
+    "mochawesomeReporterOptions": {
+      "reportDir": "cypress/reports/mocha",
+      "quite": true,
+      "overwrite": false,
+      "html": true,
+      "json": false
     }
+  },
+  "projectId": "1jco7v"
 }
